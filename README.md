@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to Roger Príncipe's Github Profile.
+
+Bash
+Ansible Playbooks
+Python
 
 <!--
 **Roger0002/Roger0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
